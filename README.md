@@ -3,25 +3,30 @@
 >This is Thanga Ayyanar. Here you can find scripts and projects that I've worked on over the years as well as browse through all the projects that I've found interesting by looking at repos I've [starred](https://github.com/ThangaAyyanar?tab=stars)
 
 ### 🏡 About Me
-    iOS Developer | ❤️️ Linux | ❤️️ Binary Reverse Engineering | ❤️️ Problem solving
+    Full Stack Developer | ❤️️ Linux | ❤️️ Problem solving | ❤️️ Functional Programming
     
-### Tools i use.
+### Tools i like.
   - Emacs
-  - Neovim
-  - Visual Studio Code
-  - XCode
+  - Tmux, fzf, z, rg, ...
+  - Firefox & Chrome
+  - Nyxt Browser (https://nyxt.atlas.engineer)
+
+### Currently working in
+  - Java
+  - JavaScript
+  - Clojure/Script, Babashka
+  - Elisp
  
-### Language i worked with
+### Language i work now and then
   - Swift
   - Python
   - Bash
   - C
   - C++
-  - Java
   - Rust
-  - Javascript
+
+### Language i previous worked with,
   - PHP
-  - Elisp (for emacs)
   - Lua
 
 ### Reach me at
